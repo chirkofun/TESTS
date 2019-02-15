@@ -6,7 +6,7 @@
 #include <hal.h>
 
 
-void Sort_Func (uint32_t *x);
-uint32_t Filter_Mediana(uint32_t *x, uint16_t window);
+void Sort_Func (uint16_t* x);
+uint16_t Filter_Mediana(uint16_t *x, uint16_t window);
 
 #endif

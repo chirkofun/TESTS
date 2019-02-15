@@ -4,12 +4,12 @@
 //#include <stdint.h>
 #include <Filter_Mediana.h>
 
-void Sort_Func (uint32_t *x)
+void Sort_Func (uint16_t *x)
 {
     uint16_t buff = 0;
-    for (unsigned int i=1; i<sizeof(x); i++ )
+    for (unsigned int i=0; i<sizeof(x)-1; i++ )
     {
-        for (uint16_t j=1; j<(sizeof(x)-i); j++)
+        for (uint16_t j=0; j<(sizeof(x)-i-1); j++)
         {
             if (x[j]<x[j+1])
             {
@@ -21,20 +21,17 @@ void Sort_Func (uint32_t *x)
     }
 }
 
-uint32_t Filter_Mediana (uint32_t *x, uint16_t window)
+uint16_t Filter_Mediana (uint16_t *x, uint16_t window)
 {
-    uint16_t w = window;
-    uint32_t z[window];
-    uint32_t y=0;
+    uint16_t z[window];
+    uint16_t y;
 
-    *z = 0;
-    for (unsigned int j=0; j<w; j++)
+    for (unsigned int k=0; k<window; k++)
     {
-        z[j]=x[j];
+        z[k]=x[k];
     }
-    Sort_Func((uint32_t *)&z);
-    y = z[w/2];
-
+    Sort_Func(z);
+    y = z[window/2+1];
     return(y);
 }
 
@@ -82,87 +79,62 @@ int main(void)
     halInit();
     sd7_init();
 
-    uint16_t k = 100;
-    uint16_t j = 0;
+    float time = 0;
+    bool first = false;
 
     uint32_t value;
-    int16_t num = 0;
-
-    uint16_t numbers[k];
-    uint16_t rass[5];
+    uint16_t flt_num, num;
     uint16_t window = 5;
+    uint16_t rass[window];
 
     palSetPad(GPIOA, 3);
     palSetPad(GPIOC, 0);
 
-//    uint16_t temp;
-//    uint8_t temp1 =0;
-//    uint8_t temp2 =0;
-//    uint8_t temp3 =0;
-//
-//    for (int i=0; i<window; i++)
-//    {
-//
-//        value = sdGet(&SD7);
-//
-//        if (value == 'R')
-//        {
-//            temp1 = sdGet( &SD7 );
-//            temp2 = sdGet( &SD7 );
-//            temp3 = sdGet( &SD7 );
-//            temp = temp3 + (temp2<<8) + (temp1<<8);
-//            temp = ASCIItoNUM(temp, 3);
-//            sdReadTimeout(&SD7, (uint32_t *)&num, 3, TIME_IMMEDIATE);
-//
-//
-//
-//
-//            chprintf(((BaseSequentialStream *)&SD7), "First:(%u)\tTemp1:(%u)\tTemp2:(%u)\tTemp3:(%u)\n\r",
-//                     temp, temp1, temp2, temp3);
-//            //num = ASCIItoNUM(num, 3);
-//            sdWrite( &SD7, num, sizeof(num));
-//        }
-//        chThdSleepMilliseconds( 30 );
-//
-//    }
-
-
-
-
     while (true)
     {
-
-
-//        numbers[j] = Filter_Mediana(&rass, window);
-//
-//        j++;
-//
-//
-//
-//        for (int i=0; i<window-1; i++)
-//        {
-//            rass[i] = rass [i+1];
-//        }
-
-        value = sdGet(&SD7);
-
-        if (value == 'R')
+        if(first == false)
         {
-            sdRead(&SD7, (uint8_t *)&value , 3);
-            num = ASCIItoNUM(value, 3);
-            sdWrite( &SD7, (uint8_t *)&num, 2);
-            chThdSleepMilliseconds(30);
+            for (int i=0; i<window; i++)
+            {
+               value = sdGet(&SD7);
+               if (value == 'R')
+               {
+                   sdRead(&SD7, (uint8_t *)&value , 3);
+                   rass[i] = ASCIItoNUM(value, 3);
+                   chThdSleepMilliseconds(30);
+                   time = time + 0.03;
+               }
+               else
+               {
+                   i--;
+               }
+
+            }
+            first = true;
         }
 
 
+        value = sdGet(&SD7);
+        if (value == 'R')
+        {
+            num = rass[window/2+1];
+            flt_num = Filter_Mediana(rass, window);
 
-//        if(j==k)
-//        {
-//
-//            j = 0;
-//            //sdWrite( &SD7, &numbers, sizeof(numbers));
-//        }
+            for (int i=0; i<window-1; i++)
+            {
+                rass[i] = rass[i+1];
+            }
 
+            sdRead(&SD7, (uint8_t *)&value , 3);
+            rass[window-1] = ASCIItoNUM(value, 3);
+            chThdSleepMilliseconds(30);
+            time = time + 0.03;
+
+//            chprintf(((BaseSequentialStream *)&SD7), "Time:(%d)\tNum:(%d)\tFlt:(%d)\n\r", (int)time, num, flt_num);
+            sdWrite( &SD7, (uint8_t *)&time, sizeof(time));
+            sdWrite( &SD7, (uint8_t *)&num, sizeof(num));
+            sdWrite( &SD7, (uint8_t *)&flt_num, sizeof(flt_num));
+        }
 
     }
 }
