@@ -2,12 +2,14 @@
 #include <ch.h>
 #include <hal.h>
 
-void Sort_Func (uint32_t *x)
+
+
+void Sort_Func (uint16_t *x, uint16_t window)
 {
     uint16_t buff = 0;
-    for (unsigned int i=1; i<sizeof(x); i++ )
+    for (uint16_t i=0; i<(window-1); i++ )
     {
-        for (uint16_t j=1; j<(sizeof(x)-i); j++)
+        for (uint16_t j=0; j<(window-i-1); j++)
         {
             if (x[j]<x[j+1])
             {
@@ -19,20 +21,18 @@ void Sort_Func (uint32_t *x)
     }
 }
 
-uint32_t Filter_Mediana (uint32_t *x, uint16_t window)
+uint16_t Filter_Mediana (uint16_t *x, uint16_t window)
 {
-    uint16_t w = window;
-    uint32_t z[window];
-    uint32_t y=0;
+    uint16_t z[window];
+    uint16_t y;
 
-    *z = 0;
-    for (unsigned int j=0; j<w; j++)
+    for (unsigned int k=0; k<window; k++)
     {
-        z[j]=x[j];
+        z[k]=x[k];
     }
-    Sort_Func(*z);
-    y = z[w/2];
-
+    Sort_Func(z, window);
+    y = z[window/2];
     return(y);
 }
+
 

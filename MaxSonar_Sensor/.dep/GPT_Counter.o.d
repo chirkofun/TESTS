@@ -1,4 +1,5 @@
-build/obj/main.o: main.c E:\ChibiStudio\chibios176/os/rt/include/ch.h \
+build/obj/GPT_Counter.o: GPT_Counter.c \
+ E:\ChibiStudio\chibios176/os/rt/include/ch.h \
  E:\ChibiStudio\chibios176/os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h \
@@ -94,7 +95,7 @@ build/obj/main.o: main.c E:\ChibiStudio\chibios176/os/rt/include/ch.h \
  E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h \
  E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h \
- Filter_Mediana.h Convert.h Serial_Init.h GPT_Counter.h
+ GPT_Counter.h
 
 E:\ChibiStudio\chibios176/os/rt/include/ch.h:
 
@@ -293,11 +294,5 @@ E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h:
 E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h:
-
-Filter_Mediana.h:
-
-Convert.h:
-
-Serial_Init.h:
 
 GPT_Counter.h:
