@@ -5,7 +5,6 @@
 #include <Filter_Mediana.h>
 #include <Convert.h>
 #include <Serial_Init.h>
-//#include <TM_Counter.h>
 #include <GPT_Counter.h>
 
 int main(void)
@@ -14,21 +13,17 @@ int main(void)
     halInit();
     sd7_init();
 
-    //TM_Counter_Init();
     GPT_Counter_Init();
 
-    float time = 0;
+    float time = 0, delta;
     bool first = false;
 
     uint32_t value;
     static uint16_t window = 15;
     uint16_t rass[window], num, flt_num;
 
-
-
     while (true)
     {
-        //TM_Counter_Start();
         GPT_Counter_Start();
         if(first == false)
         {
@@ -40,7 +35,6 @@ int main(void)
                    sdRead(&SD7, (uint8_t *)&value , 3);
                    rass[i] = ASCIItoNUM(value, 3);
                    chThdSleepMilliseconds(30);
-                   time = time + 0.03;
                }
                else
                {
@@ -65,16 +59,15 @@ int main(void)
 
             sdRead(&SD7, (uint8_t *)&value , 3);
             rass[window-1] = ASCIItoNUM(value, 3);
-
-
-            //TM_Counter_Stop();
-            GPT_Get_Time();
+            chThdSleepMilliseconds(30);
+            delta = GPT_Get_Time() + 30;
+            time += delta/1000;
 
 //            chprintf(((BaseSequentialStream *)&SD7), "Time:(%d)\tNum:(%d)\tFlt:(%d)\n\r", (int)time, num, flt_num);
-//            sdWrite( &SD7, (uint8_t *)&time, sizeof(time));
-//            sdWrite( &SD7, (uint8_t *)&num, sizeof(num));
-//            sdWrite( &SD7, (uint8_t *)&flt_num, sizeof(flt_num));
-            chThdSleepMilliseconds(30);
+            sdWrite( &SD7, (uint8_t *)&time, sizeof(time));
+            sdWrite( &SD7, (uint8_t *)&num, sizeof(num));
+            sdWrite( &SD7, (uint8_t *)&flt_num, sizeof(flt_num));
+
         }
     }
 }

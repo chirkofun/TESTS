@@ -11,7 +11,6 @@
 static void GPT_Counter_CB (GPTDriver *GPT_Timer1 );
 void GPT_Counter_Init(void);
 void GPT_Counter_Start(void);
-void GPT_Get_Time (void);
-
+uint32_t GPT_Get_Time (void);
 
 #endif /* GPT_COUNTER_H_ */

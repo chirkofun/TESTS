@@ -44,11 +44,11 @@ void GPT_Counter_Start(void)
     gptStartContinuous(GPT_Timer1, TMR_TICKS_2_OVRFLOW);
 }
 
-void GPT_Get_Time (void)
+uint32_t GPT_Get_Time (void)
 {
     total_time = gpt_ticks + gptGetCounterX(GPT_Timer1);
-    chprintf( (BaseSequentialStream *)&SD7, "Time:(%d / %d)\n\r",
-                      (int)RTC2US( SYSTEM_FREQUENCY * 1.0, total_time ), gpt_ticks );
+    uint32_t measure = (int)RTC2MS( SYSTEM_FREQUENCY * 1.0, total_time );
+    return(measure);
 }
 
 
