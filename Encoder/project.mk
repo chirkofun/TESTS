@@ -1,8 +1,7 @@
 
 PROJECT_CSRC 	= 	main.c			\
 					enc.c			\
-					Serial_Init.c	\
-					ext.c			\
+					odometry.c		\
 					
 PROJECT_CPPSRC 	= 
 

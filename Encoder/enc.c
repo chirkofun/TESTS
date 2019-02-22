@@ -9,5 +9,73 @@
 #include <chprintf.h>
 #include <stdint.h>
 
+uint32_t enc_ticks = 0;
+
+static const SerialConfig UARTcfg = {
+        .speed  = 9600,
+        .cr1    = 0,
+        .cr2    = 0,
+        .cr3    = 0
+    };
+
+void sd7_init(void)
+{
+    sdStart( &SD7, &UARTcfg );
+    palSetPadMode( GPIOE, 8, PAL_MODE_ALTERNATE(8) );    // TX
+    palSetPadMode( GPIOE, 7, PAL_MODE_ALTERNATE(8) );    // RX
+
+}
+
+
+static void EXT_CB_A( EXTDriver *extp, expchannel_t channel )
+{
+    extp = extp;
+    channel = channel;
+
+    if(palReadPad(GPIOB, 4))
+    {
+        enc_ticks++;
+    }
+    else
+    {
+        enc_ticks--;
+    }
+}
+
+static const EXTConfig EXTcfg = {
+      .channels =
+      {
+        [0]  = {EXT_CH_MODE_DISABLED, NULL},
+        [1]  = {EXT_CH_MODE_DISABLED, NULL},
+        [2]  = {EXT_CH_MODE_DISABLED, NULL},
+        [3]  = {EXT_CH_MODE_DISABLED, NULL},
+        [4]  = {EXT_CH_MODE_DISABLED, NULL},
+        [5]  = {EXT_CH_MODE_FALLING_EDGE | EXT_CH_MODE_AUTOSTART | EXT_MODE_GPIOB, EXT_CB_A}, //pb5 - Channel A
+        [6]  = {EXT_CH_MODE_DISABLED, NULL},
+        [7]  = {EXT_CH_MODE_DISABLED, NULL},
+        [8]  = {EXT_CH_MODE_DISABLED, NULL},
+        [9]  = {EXT_CH_MODE_DISABLED, NULL},
+        [10] = {EXT_CH_MODE_DISABLED, NULL},
+        [11] = {EXT_CH_MODE_DISABLED, NULL},
+        [12] = {EXT_CH_MODE_DISABLED, NULL},
+        [13] = {EXT_CH_MODE_DISABLED, NULL},
+        [14] = {EXT_CH_MODE_DISABLED, NULL},
+        [15] = {EXT_CH_MODE_DISABLED, NULL},
+      }
+    };
+
+void EXT_Start(void)
+{
+    extStart( &EXTD1, &EXTcfg );
+}
+
+uint32_t get_ticks(void)
+{
+    return(enc_ticks);
+}
+
+
+
+
 
 
