@@ -9,24 +9,13 @@
 #include <chprintf.h>
 #include <stdint.h>
 
-uint32_t enc_ticks = 0;
+/* Encoder tick count, global value*/
+int32_t enc_ticks = 0;
 
-static const SerialConfig UARTcfg = {
-        .speed  = 9600,
-        .cr1    = 0,
-        .cr2    = 0,
-        .cr3    = 0
-    };
-
-void sd7_init(void)
-{
-    sdStart( &SD7, &UARTcfg );
-    palSetPadMode( GPIOE, 8, PAL_MODE_ALTERNATE(8) );    // TX
-    palSetPadMode( GPIOE, 7, PAL_MODE_ALTERNATE(8) );    // RX
-
-}
-
-
+/*
+ * @brief       Counts encoder ticks
+ * @param [in]  EXT driver, EXT channel
+ */
 static void EXT_CB_A( EXTDriver *extp, expchannel_t channel )
 {
     extp = extp;
@@ -42,6 +31,7 @@ static void EXT_CB_A( EXTDriver *extp, expchannel_t channel )
     }
 }
 
+/* EXT config, reading from 5 channel (PORT B) */
 static const EXTConfig EXTcfg = {
       .channels =
       {
@@ -64,14 +54,32 @@ static const EXTConfig EXTcfg = {
       }
     };
 
+/*
+ * @brief       Starts EXT module
+ */
 void EXT_Start(void)
 {
     extStart( &EXTD1, &EXTcfg );
 }
 
-uint32_t get_ticks(void)
+/*
+ * @brief       Return encoder ticks
+ * @return      Encoder ticks
+ */
+int32_t get_ticks(void)
 {
     return(enc_ticks);
+}
+
+/*
+ * @brief       Counts encoder turnovers
+ * @return      Number of turnovers
+ */
+float get_turnover(void)
+{
+    float turnover = enc_ticks;
+    turnover /= 360;
+    return(turnover);
 }
 
 

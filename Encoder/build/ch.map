@@ -1,0 +1,1646 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o (__aeabi_f2d)
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o (__aeabi_dmul)
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o (__aeabi_d2f)
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o (__aeabi_fsub)
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o (__aeabi_fmul)
+e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o (__aeabi_f2iz)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtrace.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext_lld_isr.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_ext_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/memstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nullstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/enc.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/odometry.o (symbol from plugin)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x08000000         0x00200000
+flash1           0x00200000         0x00200000
+flash2           0x00000000         0x00000000
+flash3           0x00000000         0x00000000
+flash4           0x00000000         0x00000000
+flash5           0x00000000         0x00000000
+flash6           0x00000000         0x00000000
+flash7           0x00000000         0x00000000
+ram0             0x20020000         0x00060000
+ram1             0x20020000         0x0005c000
+ram2             0x2007c000         0x00004000
+ram3             0x20000000         0x00020000
+ram4             0x00000000         0x00004000
+ram5             0x40024000         0x00001000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+LOAD C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+LOAD C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chtrace.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/hal_st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/hal_ext.o
+LOAD build/obj/hal_gpt.o
+LOAD build/obj/hal_pal.o
+LOAD build/obj/hal_serial.o
+LOAD build/obj/nvic.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/hal_ext_lld_isr.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_ext_lld.o
+LOAD build/obj/hal_pal_lld.o
+LOAD build/obj/hal_st_lld.o
+LOAD build/obj/hal_gpt_lld.o
+LOAD build/obj/hal_serial_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/memstreams.o
+LOAD build/obj/nullstreams.o
+LOAD build/obj/main.o
+LOAD build/obj/enc.o
+LOAD build/obj/odometry.o
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.nocache        0x20000800        0x0
+                0x20000800                __nocache_base__ = .
+ *(.nocache)
+ *(.nocache.*)
+ *(.bss.__nocache_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __nocache_end__ = .
+
+.eth            0x20000800        0x0
+                0x20000800                __eth_base__ = .
+ *(.eth)
+ *(.eth.*)
+ *(.bss.__eth_*)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                __eth_end__ = .
+
+.vectors        0x00200000      0x200 load address 0x08000000
+ *(.vectors)
+ .vectors       0x00200000      0x200 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00200000                _vectors
+
+.xtors          0x00200200        0x0 load address 0x08000200
+                0x00200200                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00200200                __init_array_end = .
+                0x00200200                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00200200                __fini_array_end = .
+
+.text           0x00200200     0x29dc load address 0x08000200
+ *(.text)
+ .text          0x00200200       0xd4 build/obj/crt0_v7m.o
+                0x00200200                Reset_Handler
+ .text          0x002002d4       0x28 build/obj/chcoreasm_v7m.o
+                0x002002d4                _port_switch
+                0x002002e4                _port_thread_start
+                0x002002f4                _port_switch_from_isr
+                0x002002f8                _port_exit_from_isr
+ .text          0x002002fc      0x370 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x002002fc                __aeabi_drsub
+                0x00200304                __aeabi_dsub
+                0x00200304                __subdf3
+                0x00200308                __aeabi_dadd
+                0x00200308                __adddf3
+                0x00200580                __floatunsidf
+                0x00200580                __aeabi_ui2d
+                0x002005a0                __floatsidf
+                0x002005a0                __aeabi_i2d
+                0x002005c4                __aeabi_f2d
+                0x002005c4                __extendsfdf2
+                0x00200600                __floatundidf
+                0x00200600                __aeabi_ul2d
+                0x00200610                __floatdidf
+                0x00200610                __aeabi_l2d
+ .text          0x0020066c      0x424 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x0020066c                __aeabi_dmul
+                0x0020066c                __muldf3
+                0x002008c0                __divdf3
+                0x002008c0                __aeabi_ddiv
+ .text          0x00200a90       0xa0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+                0x00200a90                __truncdfsf2
+                0x00200a90                __aeabi_d2f
+ .text          0x00200b30      0x21c e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                0x00200b30                __aeabi_frsub
+                0x00200b38                __subsf3
+                0x00200b38                __aeabi_fsub
+                0x00200b3c                __aeabi_fadd
+                0x00200b3c                __addsf3
+                0x00200c9c                __aeabi_ui2f
+                0x00200c9c                __floatunsisf
+                0x00200ca4                __aeabi_i2f
+                0x00200ca4                __floatsisf
+                0x00200cc0                __aeabi_ul2f
+                0x00200cc0                __floatundisf
+                0x00200cd0                __aeabi_l2f
+                0x00200cd0                __floatdisf
+ .text          0x00200d4c      0x2a0 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                0x00200d4c                __mulsf3
+                0x00200d4c                __aeabi_fmul
+                0x00200eb4                __aeabi_fdiv
+                0x00200eb4                __divsf3
+ .text          0x00200fec       0x4c e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+                0x00200fec                __aeabi_f2iz
+                0x00200fec                __fixsfsi
+ *(.text.*)
+ *fill*         0x00201038        0x8 
+ .text.notify7.lto_priv.32
+                0x00201040       0x10 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201040                notify7.lto_priv.32
+ .text._port_irq_epilogue
+                0x00201050       0x5c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002010ac        0x4 
+ .text.VectorA4
+                0x002010b0       0x34 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002010e4        0xc 
+ .text.SysTick_Handler
+                0x002010f0       0x58 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x00201148        0x8 
+ .text.Vector4C
+                0x00201150       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector48
+                0x00201180       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector170
+                0x002011b0       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector138
+                0x002011e0       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.VectorE8
+                0x00201210       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.VectorE4
+                0x00201240       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector44
+                0x00201270       0x30 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.VectorE0
+                0x002012a0       0x80 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector9C
+                0x00201320       0x70 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.Vector68
+                0x00201390       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002013bc        0x4 
+ .text.Vector64
+                0x002013c0       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002013ec        0x4 
+ .text.Vector60
+                0x002013f0       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x0020141c        0x4 
+ .text.Vector5C
+                0x00201420       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x0020144c        0x4 
+ .text.Vector58
+                0x00201450       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x0020147c        0x4 
+ .text.SVC_Handler
+                0x00201480       0x1c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x0020149c        0x4 
+ .text.chCoreAllocAligned
+                0x002014a0       0x48 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002014a0                chCoreAllocAligned
+ *fill*         0x002014e8        0x8 
+ .text.wakeup   0x002014f0       0x70 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text._idle_thread.lto_priv.43
+                0x00201560        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201560                _idle_thread.lto_priv.43
+ *fill*         0x00201564        0xc 
+ .text._unhandled_exception
+                0x00201570        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x00201574        0xc 
+ .text.chSchGoSleepS
+                0x00201580       0x28 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002015a8        0x8 
+ .text.__early_init
+                0x002015b0       0xe8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002015b0                __early_init
+ *fill*         0x00201698        0x8 
+ .text.chTMStopMeasurementX
+                0x002016a0       0x44 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002016a0                chTMStopMeasurementX
+ *fill*         0x002016e4        0xc 
+ .text.chSchDoReschedule
+                0x002016f0       0x40 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002016f0                chSchDoReschedule
+ .text.chSchGoSleepTimeoutS
+                0x00201730       0x88 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201730                chSchGoSleepTimeoutS
+ *fill*         0x002017b8        0x8 
+ .text.chThdEnqueueTimeoutS
+                0x002017c0       0x28 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002017e8        0x8 
+ .text.oqWriteTimeout
+                0x002017f0       0xb8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x002018a8        0x8 
+ .text._writet.lto_priv.41
+                0x002018b0        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002018b0                _writet.lto_priv.41
+ *fill*         0x002018b8        0x8 
+ .text._write.lto_priv.35
+                0x002018c0        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x002018c0                _write.lto_priv.35
+ *fill*         0x002018cc        0x4 
+ .text.oqPutTimeout
+                0x002018d0       0x54 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x00201924        0xc 
+ .text._putt.lto_priv.39
+                0x00201930        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201930                _putt.lto_priv.39
+ *fill*         0x00201938        0x8 
+ .text._put.lto_priv.37
+                0x00201940        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201940                _put.lto_priv.37
+ *fill*         0x0020194c        0x4 
+ .text.iqReadTimeout
+                0x00201950       0xb8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ *fill*         0x00201a08        0x8 
+ .text._readt.lto_priv.42
+                0x00201a10        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201a10                _readt.lto_priv.42
+ *fill*         0x00201a18        0x8 
+ .text._read.lto_priv.36
+                0x00201a20        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201a20                _read.lto_priv.36
+ *fill*         0x00201a2c        0x4 
+ .text.iqGetTimeout
+                0x00201a30       0x50 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text._gett.lto_priv.40
+                0x00201a80        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201a80                _gett.lto_priv.40
+ *fill*         0x00201a88        0x8 
+ .text._get.lto_priv.38
+                0x00201a90        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201a90                _get.lto_priv.38
+ *fill*         0x00201a9c        0x4 
+ .text.chSchReadyI
+                0x00201aa0       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201aa0                chSchReadyI
+ *fill*         0x00201acc        0x4 
+ .text.Vector188
+                0x00201ad0      0x190 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .text.chThdExit
+                0x00201c60       0x50 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201c60                chThdExit
+ .text.__init_ram_areas
+                0x00201cb0       0x60 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201cb0                __init_ram_areas
+ .text.__default_exit
+                0x00201d10        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201d10                __default_exit
+ *fill*         0x00201d14        0xc 
+ .text.__late_init
+                0x00201d20        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201d20                __late_init
+ *fill*         0x00201d24        0xc 
+ .text.__core_init
+                0x00201d30       0x7c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                0x00201d30                __core_init
+ *fill*         0x00201dac        0x4 
+ .text.startup.main
+                0x00201db0      0x860 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x00201db0                main
+ .text.GPT_CB.lto_priv.33
+                0x00202610       0x54 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x00202610                GPT_CB.lto_priv.33
+ *fill*         0x00202664        0xc 
+ .text.EXT_CB_A.lto_priv.34
+                0x00202670       0x20 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x00202670                EXT_CB_A.lto_priv.34
+ .text.chTMStartMeasurementX.constprop.26
+                0x00202690        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x00202690                chTMStartMeasurementX.constprop.26
+ *fill*         0x0020269c        0x4 
+ .text.chEvtBroadcastFlagsI.constprop.22
+                0x002026a0       0x64 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x002026a0                chEvtBroadcastFlagsI.constprop.22
+ *fill*         0x00202704        0xc 
+ .text._pal_lld_setgroupmode.constprop.4
+                0x00202710       0x94 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x00202710                _pal_lld_setgroupmode.constprop.4
+ *fill*         0x002027a4        0xc 
+ .text.chprintf.constprop.0
+                0x002027b0      0x420 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x002027b0                chprintf.constprop.0
+ .text.get_ticks
+                0x00202bd0        0xc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x00202bd0                get_ticks
+ *(.glue_7t)
+ .glue_7t       0x00202bdc        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00202bdc        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x00202bdc        0x0 load address 0x08002bdc
+ .vfp11_veneer  0x00202bdc        0x0 linker stubs
+
+.v4_bx          0x00202bdc        0x0 load address 0x08002bdc
+ .v4_bx         0x00202bdc        0x0 linker stubs
+
+.iplt           0x00202bdc        0x0 load address 0x08002bdc
+ .iplt          0x00202bdc        0x0 build/obj/crt0_v7m.o
+
+.rodata         0x08002bdc      0x1bc
+                0x08002bdc                . = ALIGN (0x4)
+                0x08002bdc                __rodata_base__ = .
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.ram_areas
+                0x08002bdc       0x80 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .rodata.EXTcfg
+                0x08002c5c       0xc0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .rodata.ch_debug
+                0x08002d1c       0x16 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ *fill*         0x08002d32        0x2 
+ .rodata.main.str1.4
+                0x08002d34       0x3c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .rodata.vmt    0x08002d70       0x20 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .rodata.chprintf.constprop.0.str1.4
+                0x08002d90        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                 0x3b (size before relaxing)
+                0x08002d98                . = ALIGN (0x4)
+                0x08002d98                __rodata_end__ = .
+
+.rel.dyn        0x08002d98        0x0
+ .rel.iplt      0x08002d98        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00202bdc        0x0 load address 0x08002d98
+                0x00202bdc                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00202bdc                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+                0x20020000                __ram0_start__ = ORIGIN (ram0)
+                0x00060000                __ram0_size__ = LENGTH (ram0)
+                0x20080000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x20020000                __ram1_start__ = ORIGIN (ram1)
+                0x0005c000                __ram1_size__ = LENGTH (ram1)
+                0x2007c000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x2007c000                __ram2_start__ = ORIGIN (ram2)
+                0x00004000                __ram2_size__ = LENGTH (ram2)
+                0x20080000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x20000000                __ram3_start__ = ORIGIN (ram3)
+                0x00020000                __ram3_size__ = LENGTH (ram3)
+                0x20020000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x00000000                __ram4_start__ = ORIGIN (ram4)
+                0x00004000                __ram4_size__ = LENGTH (ram4)
+                0x00004000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x40024000                __ram5_start__ = ORIGIN (ram5)
+                0x00001000                __ram5_size__ = LENGTH (ram5)
+                0x40025000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = LENGTH (ram6)
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = LENGTH (ram7)
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+
+.data           0x20020000       0x10 load address 0x08002d98
+                0x20020000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (_textdata, LOADADDR (.data))
+                [!provide]                PROVIDE (_data, .)
+                0x08002d98                _textdata_start = LOADADDR (.data)
+                0x20020000                _data_start = .
+ *(.data)
+ *(.data.*)
+ .data.GPT1cfg  0x20020000       0x10 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ *(.ramtext)
+                0x20020010                . = ALIGN (0x4)
+                [!provide]                PROVIDE (_edata, .)
+                0x20020010                _data_end = .
+
+.igot.plt       0x20020010        0x0 load address 0x08002da8
+ .igot.plt      0x20020010        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000800      0x220
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.EXTD1     0x20000800        0x8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x20000800                EXTD1
+ .bss.GPTD1     0x20000808       0x10 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x20000808                GPTD1
+ .bss.ch        0x20000818       0x74 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x20000818                ch
+ *fill*         0x2000088c        0x4 
+ .bss.ch_idle_thread_wa
+                0x20000890       0xd8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .bss.default_heap
+                0x20000968       0x20 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .bss.endmem.lto_priv.45
+                0x20000988        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x20000988                endmem.lto_priv.45
+ .bss.nextmem.lto_priv.44
+                0x2000098c        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                0x2000098c                nextmem.lto_priv.44
+ .bss.sd_in_buf7
+                0x20000990       0x10 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .bss.sd_out_buf7
+                0x200009a0       0x10 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .bss.SD7       0x200009b0       0x60 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x200009b0                SD7
+ .bss.delta_dist
+                0x20000a10        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x20000a10                delta_dist
+ .bss.dist      0x20000a14        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .bss.enc_ticks
+                0x20000a18        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                0x20000a18                enc_ticks
+ .bss.prev_dist
+                0x20000a1c        0x4 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ *(COMMON)
+                0x20000a20                . = ALIGN (0x4)
+                0x20000a20                _bss_end = .
+                [!provide]                PROVIDE (end, .)
+
+.ram0_init      0x20020010        0x0 load address 0x08002da8
+                0x20020010                . = ALIGN (0x4)
+                0x08002da8                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x20020010                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x20020010                . = ALIGN (0x4)
+
+.ram0           0x20020010        0x0 load address 0x08002da8
+                0x20020010                . = ALIGN (0x4)
+                0x20020010                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x20020010                . = ALIGN (0x4)
+                0x20020010                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x20020010                . = ALIGN (0x4)
+                0x20020010                __ram0_free__ = .
+
+.ram1_init      0x20020000        0x0 load address 0x08002da8
+                0x20020000                . = ALIGN (0x4)
+                0x08002da8                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x20020000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x20020000                . = ALIGN (0x4)
+
+.ram1           0x20020000        0x0 load address 0x08002da8
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x20020000                . = ALIGN (0x4)
+                0x20020000                __ram1_free__ = .
+
+.ram2_init      0x2007c000        0x0 load address 0x08002da8
+                0x2007c000                . = ALIGN (0x4)
+                0x08002da8                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x2007c000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x2007c000                . = ALIGN (0x4)
+
+.ram2           0x2007c000        0x0 load address 0x08002da8
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                __ram2_free__ = .
+
+.ram3_init      0x20000a20        0x0 load address 0x08002da8
+                0x20000a20                . = ALIGN (0x4)
+                0x08002da8                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x20000a20                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x20000a20                . = ALIGN (0x4)
+
+.ram3           0x20000a20        0x0 load address 0x08002da8
+                0x20000a20                . = ALIGN (0x4)
+                0x20000a20                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x20000a20                . = ALIGN (0x4)
+                0x20000a20                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x20000a20                . = ALIGN (0x4)
+                0x20000a20                __ram3_free__ = .
+
+.ram4_init      0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x08002da8                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x00000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram4           0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_free__ = .
+
+.ram5_init      0x40024000        0x0 load address 0x08002da8
+                0x40024000                . = ALIGN (0x4)
+                0x08002da8                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x40024000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x40024000                . = ALIGN (0x4)
+
+.ram5           0x40024000        0x0 load address 0x08002da8
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x40024000                . = ALIGN (0x4)
+                0x40024000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x08002da8                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x08002da8                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x08002da8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x20020010    0x5fff0
+                0x20020010                . = ALIGN (0x8)
+                0x20020010                __heap_base__ = .
+                0x20080000                . = (ORIGIN (HEAP_RAM) + LENGTH (HEAP_RAM))
+ *fill*         0x20020010    0x5fff0 
+                0x20080000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+LOAD e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libm.a
+START GROUP
+LOAD e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a
+LOAD e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libg.a
+LOAD e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000042       0x31 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000073       0x31 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000a4       0x31 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000d5       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000f3       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000111       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000012f       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000014d       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000016b       0x1e e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .comment       0x0000007f       0x80 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_info     0x00000000     0x77db
+ .debug_info    0x00000000     0x38d3 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_info    0x000038d3     0x2a60 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_info    0x00006333     0x14a8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_abbrev   0x00000000      0xeae
+ .debug_abbrev  0x00000000      0x6aa C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_abbrev  0x000006aa      0x414 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_abbrev  0x00000abe      0x3f0 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_loc      0x00000000     0x2f6d
+ .debug_loc     0x00000000     0x15c7 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_loc     0x000015c7      0xafc C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_loc     0x000020c3      0xeaa C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_aranges  0x00000000      0x208
+ .debug_aranges
+                0x00000000      0x198 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000198       0x20 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_aranges
+                0x000001b8       0x50 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_ranges   0x00000000     0x14e8
+ .debug_ranges  0x00000000      0x570 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_ranges  0x00000570      0xde8 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_ranges  0x00001358      0x190 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_line     0x00000000     0x2594
+ .debug_line    0x00000000     0x106f C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_line    0x0000106f      0xe2a C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_line    0x00001e99      0x6fb C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+
+.debug_str      0x00000000     0x1830
+ .debug_str     0x00000000      0xdfe C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                0xef9 (size before relaxing)
+ .debug_str     0x00000dfe      0x7ae C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                0xf1a (size before relaxing)
+ .debug_str     0x000015ac      0x284 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                0x9fd (size before relaxing)
+
+.debug_frame    0x00000000      0x81c
+ .debug_frame   0x00000000      0x53c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+ .debug_frame   0x0000053c       0x2c C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+ .debug_frame   0x00000568       0xec C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+ .debug_frame   0x00000654       0xac e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000700       0x50 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000750       0x24 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000774       0x4c e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x000007c0       0x38 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x000007f8       0x24 e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BusFault_Handler                                  build/obj/vectors.o (symbol from plugin)
+DebugMon_Handler                                  build/obj/vectors.o (symbol from plugin)
+EXTD1                                             C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/enc.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld_isr.o (symbol from plugin)
+EXT_CB_A.lto_priv.34                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+EXT_Start                                         build/obj/enc.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+GPT1cfg                                           build/obj/odometry.o (symbol from plugin)
+GPTD1                                             C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/odometry.o (symbol from plugin)
+GPT_CB.lto_priv.33                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+GPT_Init                                          build/obj/odometry.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+HardFault_Handler                                 build/obj/vectors.o (symbol from plugin)
+MemManage_Handler                                 build/obj/vectors.o (symbol from plugin)
+NMI_Handler                                       build/obj/vectors.o (symbol from plugin)
+PendSV_Handler                                    build/obj/vectors.o (symbol from plugin)
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+SD7                                               C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SVC_Handler                                       build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+SysTick_Handler                                   build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+UsageFault_Handler                                build/obj/vectors.o (symbol from plugin)
+Vector100                                         build/obj/vectors.o (symbol from plugin)
+Vector104                                         build/obj/vectors.o (symbol from plugin)
+Vector108                                         build/obj/vectors.o (symbol from plugin)
+Vector10C                                         build/obj/vectors.o (symbol from plugin)
+Vector110                                         build/obj/vectors.o (symbol from plugin)
+Vector114                                         build/obj/vectors.o (symbol from plugin)
+Vector118                                         build/obj/vectors.o (symbol from plugin)
+Vector11C                                         build/obj/vectors.o (symbol from plugin)
+Vector120                                         build/obj/vectors.o (symbol from plugin)
+Vector124                                         build/obj/vectors.o (symbol from plugin)
+Vector128                                         build/obj/vectors.o (symbol from plugin)
+Vector12C                                         build/obj/vectors.o (symbol from plugin)
+Vector130                                         build/obj/vectors.o (symbol from plugin)
+Vector134                                         build/obj/vectors.o (symbol from plugin)
+Vector138                                         build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector13C                                         build/obj/vectors.o (symbol from plugin)
+Vector140                                         build/obj/vectors.o (symbol from plugin)
+Vector144                                         build/obj/vectors.o (symbol from plugin)
+Vector148                                         build/obj/vectors.o (symbol from plugin)
+Vector14C                                         build/obj/vectors.o (symbol from plugin)
+Vector150                                         build/obj/vectors.o (symbol from plugin)
+Vector154                                         build/obj/vectors.o (symbol from plugin)
+Vector158                                         build/obj/vectors.o (symbol from plugin)
+Vector15C                                         build/obj/vectors.o (symbol from plugin)
+Vector160                                         build/obj/vectors.o (symbol from plugin)
+Vector164                                         build/obj/vectors.o (symbol from plugin)
+Vector168                                         build/obj/vectors.o (symbol from plugin)
+Vector16C                                         build/obj/vectors.o (symbol from plugin)
+Vector170                                         build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector174                                         build/obj/vectors.o (symbol from plugin)
+Vector178                                         build/obj/vectors.o (symbol from plugin)
+Vector17C                                         build/obj/vectors.o (symbol from plugin)
+Vector180                                         build/obj/vectors.o (symbol from plugin)
+Vector184                                         build/obj/vectors.o (symbol from plugin)
+Vector188                                         build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector18C                                         build/obj/vectors.o (symbol from plugin)
+Vector190                                         build/obj/vectors.o (symbol from plugin)
+Vector194                                         build/obj/vectors.o (symbol from plugin)
+Vector198                                         build/obj/vectors.o (symbol from plugin)
+Vector19C                                         build/obj/vectors.o (symbol from plugin)
+Vector1A0                                         build/obj/vectors.o (symbol from plugin)
+Vector1A4                                         build/obj/vectors.o (symbol from plugin)
+Vector1A8                                         build/obj/vectors.o (symbol from plugin)
+Vector1AC                                         build/obj/vectors.o (symbol from plugin)
+Vector1B0                                         build/obj/vectors.o (symbol from plugin)
+Vector1B4                                         build/obj/vectors.o (symbol from plugin)
+Vector1B8                                         build/obj/vectors.o (symbol from plugin)
+Vector1BC                                         build/obj/vectors.o (symbol from plugin)
+Vector1C                                          build/obj/vectors.o (symbol from plugin)
+Vector1C0                                         build/obj/vectors.o (symbol from plugin)
+Vector1C4                                         build/obj/vectors.o (symbol from plugin)
+Vector1C8                                         build/obj/vectors.o (symbol from plugin)
+Vector1CC                                         build/obj/vectors.o (symbol from plugin)
+Vector1D0                                         build/obj/vectors.o (symbol from plugin)
+Vector1D4                                         build/obj/vectors.o (symbol from plugin)
+Vector1D8                                         build/obj/vectors.o (symbol from plugin)
+Vector1DC                                         build/obj/vectors.o (symbol from plugin)
+Vector1E0                                         build/obj/vectors.o (symbol from plugin)
+Vector1E4                                         build/obj/vectors.o (symbol from plugin)
+Vector1E8                                         build/obj/vectors.o (symbol from plugin)
+Vector1EC                                         build/obj/vectors.o (symbol from plugin)
+Vector1F0                                         build/obj/vectors.o (symbol from plugin)
+Vector1F4                                         build/obj/vectors.o (symbol from plugin)
+Vector1F8                                         build/obj/vectors.o (symbol from plugin)
+Vector1FC                                         build/obj/vectors.o (symbol from plugin)
+Vector20                                          build/obj/vectors.o (symbol from plugin)
+Vector24                                          build/obj/vectors.o (symbol from plugin)
+Vector28                                          build/obj/vectors.o (symbol from plugin)
+Vector34                                          build/obj/vectors.o (symbol from plugin)
+Vector40                                          build/obj/vectors.o (symbol from plugin)
+Vector44                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector48                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector4C                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector50                                          build/obj/vectors.o (symbol from plugin)
+Vector54                                          build/obj/vectors.o (symbol from plugin)
+Vector58                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector5C                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector60                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector64                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector68                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector6C                                          build/obj/vectors.o (symbol from plugin)
+Vector70                                          build/obj/vectors.o (symbol from plugin)
+Vector74                                          build/obj/vectors.o (symbol from plugin)
+Vector78                                          build/obj/vectors.o (symbol from plugin)
+Vector7C                                          build/obj/vectors.o (symbol from plugin)
+Vector80                                          build/obj/vectors.o (symbol from plugin)
+Vector84                                          build/obj/vectors.o (symbol from plugin)
+Vector88                                          build/obj/vectors.o (symbol from plugin)
+Vector8C                                          build/obj/vectors.o (symbol from plugin)
+Vector90                                          build/obj/vectors.o (symbol from plugin)
+Vector94                                          build/obj/vectors.o (symbol from plugin)
+Vector98                                          build/obj/vectors.o (symbol from plugin)
+Vector9C                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorA0                                          build/obj/vectors.o (symbol from plugin)
+VectorA4                                          build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorA8                                          build/obj/vectors.o (symbol from plugin)
+VectorAC                                          build/obj/vectors.o (symbol from plugin)
+VectorB0                                          build/obj/vectors.o (symbol from plugin)
+VectorB4                                          build/obj/vectors.o (symbol from plugin)
+VectorB8                                          build/obj/vectors.o (symbol from plugin)
+VectorBC                                          build/obj/vectors.o (symbol from plugin)
+VectorC0                                          build/obj/vectors.o (symbol from plugin)
+VectorC4                                          build/obj/vectors.o (symbol from plugin)
+VectorC8                                          build/obj/vectors.o (symbol from plugin)
+VectorCC                                          build/obj/vectors.o (symbol from plugin)
+VectorD0                                          build/obj/vectors.o (symbol from plugin)
+VectorD4                                          build/obj/vectors.o (symbol from plugin)
+VectorD8                                          build/obj/vectors.o (symbol from plugin)
+VectorDC                                          build/obj/vectors.o (symbol from plugin)
+VectorE0                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorE4                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorE8                                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorEC                                          build/obj/vectors.o (symbol from plugin)
+VectorF0                                          build/obj/vectors.o (symbol from plugin)
+VectorF4                                          build/obj/vectors.o (symbol from plugin)
+VectorF8                                          build/obj/vectors.o (symbol from plugin)
+VectorFC                                          build/obj/vectors.o (symbol from plugin)
+__adddf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__addsf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_d2f                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_dadd                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ddiv                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+__aeabi_dmul                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_drsub                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_f2d                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_f2iz                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_fadd                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_fdiv                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_fmul                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_frsub                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+__aeabi_i2d                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2f                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_l2d                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_l2f                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2d                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ui2f                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+__aeabi_ul2d                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2f                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__core_init                                       C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__divdf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+__divsf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+__early_init                                      C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__extendsfdf2                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__fixsfsi                                         e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixsfsi.o)
+__floatdidf                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatdisf                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatsidf                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatsisf                                       e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatundidf                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatundisf                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__floatunsidf                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatunsisf                                     e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__heap_base__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__late_init                                       C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__muldf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+__mulsf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivsf3.o)
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_clear__                                    C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init__                                     C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init_text__                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_noinit__                                   C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__subdf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+__subsf3                                          e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubsf3.o)
+__truncdfsf2                                      e:/chibistudio/tools/gnu tools arm embedded/6.3 2017q1/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_truncdfsf2.o)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_get.lto_priv.38                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_gett.lto_priv.40                                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.lto_priv.43                          C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_pal_lld_init                                     build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+_pal_lld_setgroupmode.constprop.4                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld_isr.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_put.lto_priv.37                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_putt.lto_priv.39                                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_read.lto_priv.36                                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_readt.lto_priv.42                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_textdata_start                                   build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              build/obj/vectors.o (symbol from plugin)
+_vectors                                          C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_write.lto_priv.35                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+_writet.lto_priv.41                               C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAllocAligned                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocAlignedI                               build/obj/chmemcore.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlagsI                              build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+chEvtBroadcastFlagsI.constprop.22                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+chEvtSignalI                                      build/obj/chevents.o (symbol from plugin)
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+chGuardedPoolAllocTimeout                         build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolAllocTimeoutS                        build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFree                                 build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFreeI                                build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolLoadArray                            build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolObjectInit                           build/obj/chmempools.o (symbol from plugin)
+chHeapAllocAligned                                build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+chMBFetch                                         build/obj/chmboxes.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+chMBFetchS                                        build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPost                                          build/obj/chmboxes.o (symbol from plugin)
+chMBPostAhead                                     build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadS                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+chMBPostS                                         build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+chMtxLock                                         build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockAllS                                   build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+chPoolObjectInit                                  build/obj/chmempools.o (symbol from plugin)
+chRegFindThreadByName                             build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByPointer                          build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByWorkingArea                      build/obj/chregistry.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+chSchDoReschedule                                 C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyAheadI                                  build/obj/chschd.o (symbol from plugin)
+chSchReadyI                                       C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 build/obj/chsys.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.26                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+chTMStopMeasurementX                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+chThdAddRef                                       build/obj/chthreads.o (symbol from plugin)
+chThdCreate                                       build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspended                              build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspendedI                             build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdDequeueAllI                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdExit                                         C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        build/obj/chthreads.o (symbol from plugin)
+chThdRelease                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      build/obj/chthreads.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+chThdSleep                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+ch_idle_thread_wa                                 build/obj/chsys.o (symbol from plugin)
+chprintf                                          build/obj/chprintf.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chprintf.constprop.0                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         build/obj/chprintf.o (symbol from plugin)
+delta_dist                                        C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  build/obj/odometry.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+dist                                              build/obj/odometry.o (symbol from plugin)
+enc_ticks                                         C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  build/obj/enc.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+endmem.lto_priv.45                                C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+extChannelDisable                                 build/obj/hal_ext.o (symbol from plugin)
+extChannelEnable                                  build/obj/hal_ext.o (symbol from plugin)
+extInit                                           build/obj/hal_ext.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+extObjectInit                                     build/obj/hal_ext.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld.o (symbol from plugin)
+extSetChannelModeI                                build/obj/hal_ext.o (symbol from plugin)
+extStart                                          build/obj/hal_ext.o (symbol from plugin)
+                                                  build/obj/enc.o (symbol from plugin)
+extStop                                           build/obj/hal_ext.o (symbol from plugin)
+ext_lld_channel_disable                           build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext.o (symbol from plugin)
+ext_lld_channel_enable                            build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext.o (symbol from plugin)
+ext_lld_exti_irq_disable                          build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld.o (symbol from plugin)
+ext_lld_exti_irq_enable                           build/obj/hal_ext_lld_isr.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld.o (symbol from plugin)
+ext_lld_init                                      build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext.o (symbol from plugin)
+ext_lld_start                                     build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext.o (symbol from plugin)
+ext_lld_stop                                      build/obj/hal_ext_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext.o (symbol from plugin)
+get_distance                                      build/obj/odometry.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+get_speed                                         build/obj/odometry.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+get_ticks                                         C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans2.ltrans.o
+                                                  build/obj/enc.o (symbol from plugin)
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+get_turnover                                      build/obj/enc.o (symbol from plugin)
+                                                  build/obj/odometry.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptChangeInterval                                 build/obj/hal_gpt.o (symbol from plugin)
+gptInit                                           build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+gptObjectInit                                     build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+gptPolledDelay                                    build/obj/hal_gpt.o (symbol from plugin)
+gptStart                                          build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/odometry.o (symbol from plugin)
+gptStartContinuous                                build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/odometry.o (symbol from plugin)
+gptStartContinuousI                               build/obj/hal_gpt.o (symbol from plugin)
+gptStartOneShot                                   build/obj/hal_gpt.o (symbol from plugin)
+gptStartOneShotI                                  build/obj/hal_gpt.o (symbol from plugin)
+gptStop                                           build/obj/hal_gpt.o (symbol from plugin)
+gptStopTimer                                      build/obj/hal_gpt.o (symbol from plugin)
+gptStopTimerI                                     build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_init                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_polled_delay                              build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_serve_interrupt                           build/obj/hal_gpt_lld.o (symbol from plugin)
+gpt_lld_start                                     build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_start_timer                               build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop_timer                                build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ibqGetEmptyBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeout                           build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeoutS                          build/obj/hal_buffers.o (symbol from plugin)
+ibqGetTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqPostFullBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqReadTimeout                                    build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBuffer                             build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBufferS                            build/obj/hal_buffers.o (symbol from plugin)
+ibqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+iqGetTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+iqPutI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqReadTimeout                                     build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+main                                              C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+msObjectInit                                      build/obj/memstreams.o (symbol from plugin)
+                                                  build/obj/chprintf.o (symbol from plugin)
+nextmem.lto_priv.44                               C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+notify7.lto_priv.32                               C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans0.ltrans.o
+                                                  C:\Users\CYIRKO~1\AppData\Local\Temp\ccEkETpe.ltrans1.ltrans.o
+nullObjectInit                                    build/obj/nullstreams.o (symbol from plugin)
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld_isr.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_ext_lld_isr.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+obqFlush                                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeout                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeoutS                         build/obj/hal_buffers.o (symbol from plugin)
+obqGetFullBufferI                                 build/obj/hal_buffers.o (symbol from plugin)
+obqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBuffer                                 build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBufferS                                build/obj/hal_buffers.o (symbol from plugin)
+obqPutTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+obqReleaseEmptyBufferI                            build/obj/hal_buffers.o (symbol from plugin)
+obqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+obqTryFlushI                                      build/obj/hal_buffers.o (symbol from plugin)
+obqWriteTimeout                                   build/obj/hal_buffers.o (symbol from plugin)
+oqGetI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+oqPutTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqWriteTimeout                                    build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+palReadBus                                        build/obj/hal_pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/hal_pal.o (symbol from plugin)
+palWriteBus                                       build/obj/hal_pal.o (symbol from plugin)
+pal_default_config                                build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+prev_dist                                         build/obj/odometry.o (symbol from plugin)
+sd7_init                                          build/obj/main.o (symbol from plugin)
+sdGetWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdIncomingDataI                                   build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdInit                                            build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sdObjectInit                                      build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdPutWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdRequestDataI                                    build/obj/hal_serial.o (symbol from plugin)
+sdStart                                           build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sdStop                                            build/obj/hal_serial.o (symbol from plugin)
+sd_lld_init                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_start                                      build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_stop                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+stGetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stInit                                            build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stStartAlarm                                      build/obj/hal_st.o (symbol from plugin)
+stStopAlarm                                       build/obj/hal_st.o (symbol from plugin)
+st_lld_init                                       build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_st.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
