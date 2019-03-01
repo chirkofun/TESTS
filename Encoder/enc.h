@@ -8,8 +8,21 @@
 #ifndef ENC_H_
 #define ENC_H_
 
-void EXT_Start(void);
+/*
+ * @brief       Starts EXT module
+ */
+void lld_Encoder_Init(void);
+
+/*
+ * @brief       Return encoder ticks
+ * @return      Encoder ticks
+ */
 uint32_t get_ticks(void);
+
+/*
+ * @brief       Counts encoder turnovers
+ * @return      Number of turnovers
+ */
 float get_turnover(void);
 
 

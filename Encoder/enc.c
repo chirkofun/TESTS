@@ -9,8 +9,20 @@
 #include <chprintf.h>
 #include <stdint.h>
 
+/*Encoder channel A*/
+#define ENC_CH_A PAL_LINE( GPIOB , 5 )
+
+/*Encoder channel B*/
+#define ENC_CH_B PAL_LINE( GPIOB , 4 )
+
+/*Encoder maximum number of ticks*/
+#define ENC_MAX_TICK 360
+
 /* Encoder tick count, global value*/
 int32_t enc_ticks = 0;
+
+typedef int32_t encoderTicksValue_t;
+typedef float encoderTurnoverValue_t;
 
 /*
  * @brief       Counts encoder ticks
@@ -21,7 +33,7 @@ static void EXT_CB_A( EXTDriver *extp, expchannel_t channel )
     extp = extp;
     channel = channel;
 
-    if(palReadPad(GPIOB, 4))
+    if(palReadLine(ENC_CH_B))
     {
         enc_ticks++;
     }
@@ -57,7 +69,7 @@ static const EXTConfig EXTcfg = {
 /*
  * @brief       Starts EXT module
  */
-void EXT_Start(void)
+void lld_Encoder_Init(void)
 {
     extStart( &EXTD1, &EXTcfg );
 }
@@ -66,7 +78,7 @@ void EXT_Start(void)
  * @brief       Return encoder ticks
  * @return      Encoder ticks
  */
-int32_t get_ticks(void)
+encoderTicksValue_t get_ticks(void)
 {
     return(enc_ticks);
 }
@@ -75,11 +87,9 @@ int32_t get_ticks(void)
  * @brief       Counts encoder turnovers
  * @return      Number of turnovers
  */
-float get_turnover(void)
+encoderTurnoverValue_t get_turnover(void)
 {
-    float turnover = enc_ticks;
-    turnover /= 360;
-    return(turnover);
+    return((float)enc_ticks/ENC_MAX_TICK);
 }
 
 

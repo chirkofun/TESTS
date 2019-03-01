@@ -22,7 +22,6 @@ void sd7_init(void)
     sdStart( &SD7, &UARTcfg );
     palSetPadMode( GPIOE, 8, PAL_MODE_ALTERNATE(8) );    // TX
     palSetPadMode( GPIOE, 7, PAL_MODE_ALTERNATE(8) );    // RX
-
 }
 
 int main(void)
@@ -30,16 +29,13 @@ int main(void)
     chSysInit();
     halInit();
     sd7_init();
-    EXT_Start();
-    GPT_Init();
+    lld_Odometry_Init();
 
     int32_t ticks = 0;
-    float turnover = 0;
-    float distance = 0, speed = 0;
+    float turnover = 0, distance = 0, speed = 0;
 
     while(1)
     {
-
         ticks = get_ticks();
         turnover = get_turnover();
         distance = get_distance();
