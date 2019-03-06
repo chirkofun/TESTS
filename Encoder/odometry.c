@@ -20,6 +20,9 @@
 /* Distance, Previous distance, changing the distance*/
 float dist = 0, prev_dist = 0,  delta_dist = 0;
 
+/*Odometry initialization flag */
+static bool Odometry_is_Initialized = false;
+
 /*
  * @brief       Counts distance traveled (for certain wheel radius and transmition ratio)
  * @return      Distance in meters
@@ -59,9 +62,11 @@ GPTConfig GPT1cfg = {
  */
 void lld_Odometry_Init (void)
 {
+    if( Odometry_is_Initialized ) return;
     gptStart( GPT_Driver, &GPT1cfg );
     gptStartContinuous( GPT_Driver, TMR_TICKS_2_OVRFLOW );
     lld_Encoder_Init();
+    Odometry_is_Initialized = true;
 }
 
 /*

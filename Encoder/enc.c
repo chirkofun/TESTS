@@ -22,6 +22,8 @@
 /* Encoder tick count, global value*/
 int32_t enc_ticks = 0;
 
+/*Encoder initialization flag */
+static bool Enc_is_Initialized = false;
 
 /*
  * @brief       Counts encoder ticks
@@ -70,7 +72,9 @@ static const EXTConfig EXTcfg = {
  */
 void lld_Encoder_Init(void)
 {
+    if ( Enc_is_Initialized ) return;
     extStart( &EXTD1, &EXTcfg );
+    Enc_is_Initialized = true;
 }
 
 /*
