@@ -7,9 +7,10 @@
 #include <ch.h>
 #include <hal.h>
 #include <chprintf.h>
-#include <stdint.h>
 #include <enc.h>
+#include <odometry.h>
 #include <math.h>
+#include <stdint.h>
 
 /* Wheel radius */
 #define RADIUS 0.25
@@ -18,9 +19,6 @@
 
 /* Distance, Previous distance, changing the distance*/
 float dist = 0, prev_dist = 0,  delta_dist = 0;
-
-typedef float odometryDistanceValue_t;
-typedef float odometrySpeedValue_t;
 
 /*
  * @brief       Counts distance traveled (for certain wheel radius and transmition ratio)

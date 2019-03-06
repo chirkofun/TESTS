@@ -94,7 +94,8 @@ build/obj/enc.o: enc.c E:\ChibiStudio\chibios176/os/rt/include/ch.h \
  E:\ChibiStudio\chibios176/os/hal/include/hal_mmc_spi.h \
  E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h \
  E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h \
+ enc.h
 
 E:\ChibiStudio\chibios176/os/rt/include/ch.h:
 
@@ -295,3 +296,5 @@ E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h:
 E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h:
+
+enc.h:

@@ -96,7 +96,7 @@ build/obj/odometry.o: odometry.c \
  E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h \
  E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h \
- enc.h \
+ enc.h odometry.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\math.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\reent.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h \
@@ -310,6 +310,8 @@ E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h:
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h:
 
 enc.h:
+
+odometry.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\math.h:
 

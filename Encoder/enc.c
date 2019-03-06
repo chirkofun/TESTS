@@ -8,6 +8,7 @@
 #include <hal.h>
 #include <chprintf.h>
 #include <stdint.h>
+#include <enc.h>
 
 /*Encoder channel A*/
 #define ENC_CH_A PAL_LINE( GPIOB , 5 )
@@ -21,8 +22,6 @@
 /* Encoder tick count, global value*/
 int32_t enc_ticks = 0;
 
-typedef int32_t encoderTicksValue_t;
-typedef float encoderTurnoverValue_t;
 
 /*
  * @brief       Counts encoder ticks
