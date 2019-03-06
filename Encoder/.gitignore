@@ -1,4 +1,2 @@
 *.dep
 *build*
-*debug*
-Makefile
