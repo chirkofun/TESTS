@@ -1,8 +1,6 @@
 
 PROJECT_CSRC 	= 	main.c				\
-					Filter_Mediana.c    \
-					Convert.c			\
-					Serial_Init.c		\
+					sonar.c				\
 					GPT_Counter.c		\
 					
 

@@ -27,6 +27,7 @@ void sd7_init(void)
     palSetPadMode( GPIOE, 8, PAL_MODE_ALTERNATE(8) );    // TX
     palSetPadMode( GPIOE, 7, PAL_MODE_ALTERNATE(8) );    // RX
 
-    palSetPad(GPIOA, 3); //High level pin 1 for Sonar
-    palSetPad(GPIOC, 0); //High level pin 5 for Sonar
+    palSetPad(GPIOA, 3); //High level pin 4 for Sonar left front
+    palSetPad(GPIOA, 2); //High level pin 4 for Sonar left
+    palSetPad(GPIOA, 10); //High level pin 4 for Sonar left back
 }

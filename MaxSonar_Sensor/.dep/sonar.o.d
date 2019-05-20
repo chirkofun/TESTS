@@ -1,25 +1,12 @@
-build/obj/main.o: main.c \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\stdlib.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\ieeefp.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\newlib.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_newlib_version.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\config.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\features.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\reent.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_types.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_types.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_default_types.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\lock.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\cdefs.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\stdlib.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\alloca.h \
- GPT_Counter.h E:\ChibiStudio\chibios176/os/rt/include/ch.h \
+build/obj/sonar.o: sonar.c sonar.h \
+ E:\ChibiStudio\chibios176/os/rt/include/ch.h \
  E:\ChibiStudio\chibios176/os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\stdint.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_default_types.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\features.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_newlib_version.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_intsup.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_stdint.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdbool.h \
@@ -108,52 +95,35 @@ build/obj/main.o: main.c \
  E:\ChibiStudio\chibios176/os/hal/include/hal_serial_usb.h \
  E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h \
  e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h \
- sonar.h \
- e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\math.h
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\math.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\reent.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\newlib.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\config.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\ieeefp.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_types.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_types.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\lock.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\cdefs.h \
+ e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h
 
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\stdlib.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\ieeefp.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\newlib.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_newlib_version.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\config.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\features.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\reent.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_types.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_types.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_default_types.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\lock.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\cdefs.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\stdlib.h:
-
-e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\alloca.h:
-
-GPT_Counter.h:
+sonar.h:
 
 E:\ChibiStudio\chibios176/os/rt/include/ch.h:
 
 E:\ChibiStudio\chibios176/os/common/ports/ARMCMx/compilers/GCC/chtypes.h:
 
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stddef.h:
+
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdint.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\stdint.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_default_types.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\features.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_newlib_version.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_intsup.h:
 
@@ -337,6 +307,24 @@ E:\ChibiStudio\chibios176/os/hal/lib/streams/chprintf.h:
 
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\lib\gcc\arm-none-eabi\6.3.1\include\stdarg.h:
 
-sonar.h:
-
 e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\math.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\reent.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\newlib.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\config.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\ieeefp.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\_types.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\machine\_types.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\lock.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\sys\cdefs.h:
+
+e:\chibistudio\tools\gnu\ tools\ arm\ embedded\6.3\ 2017q1\arm-none-eabi\include\_ansi.h:

@@ -4,11 +4,11 @@
  *  Created on: 20 февр. 2019 г.
  *      Author: cyirkofun
  */
-#include <ch.h>
-#include <hal.h>
-#include <chprintf.h>
-#include <stdint.h>
+
+
 #include <GPT_Counter.h>
+
+static void GPT_Counter_CB ( GPTDriver *GPT_Timer1);
 
 static GPTDriver    *GPT_Timer1     = &GPTD1;
 
@@ -47,10 +47,6 @@ void GPT_Counter_Start(void)
 uint32_t GPT_Get_Time (void)
 {
     total_time = gpt_ticks + gptGetCounterX(GPT_Timer1);
-    uint32_t measure = (int)RTC2MS( SYSTEM_FREQUENCY * 1.0, total_time );
+    uint32_t measure = (int)RTC2US( SYSTEM_FREQUENCY * 1.0, total_time );
     return(measure);
 }
-
-
-
-
